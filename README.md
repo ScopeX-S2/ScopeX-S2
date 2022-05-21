@@ -1,4 +1,4 @@
-### Bem-Vindo(a) ao meu GitHub 😉
+### Salve, eu sou o ScopeX. Criador de sites ruins ksksks
 <div  align="center" style="display: inline_block">
   <a href="https://github.com/ScopeX-S2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ScopeX-S2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
