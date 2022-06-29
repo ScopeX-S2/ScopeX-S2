@@ -1,4 +1,4 @@
-### Salve, eu sou o ScopeX. Criador de sites ruins ksksks
+### Salve, eu sou o ScopeX. Eu desenvolvo isso daí que nem dá pra chamar de site rsrsrs
 <div  align="center" style="display: inline_block">
   <a href="https://github.com/ScopeX-S2">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ScopeX-S2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
