@@ -1,4 +1,4 @@
-### Olá, eu sou o Davi Alves. E sou desenvolvedor front-end a 4 anos.
+### Olá, eu sou o Davi Alves. Desenvolvedor full-stack a 4 anos.
 <div  align="center" style="display: inline_block">
   <a href="https://github.com/ScopeX-S2">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ScopeX-S2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
